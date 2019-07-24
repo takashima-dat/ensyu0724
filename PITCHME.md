@@ -11,4 +11,4 @@
 - ルール ７曲あり、すべてクリアでエンディング（のつもり）
  - 体力制か、スコアランク制か検討中
 - アセット
- - フォント Waptia-Light <https://moji-waku.com/waptia/>
+ - フォント [Waptia-Light](https://moji-waku.com/waptia/)

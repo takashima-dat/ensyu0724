@@ -1,6 +1,6 @@
 ### slidebeats
 
-![スクリーンショット](otogegamen.png)
+![スクリーンショット](otogegamen2.png)
 
 ---
 ### ゲーム概要
